@@ -3,7 +3,7 @@
 
 <h2>1# Projeto | Wireframe de média fidelidade</h2>
 
-<p>Esse projeto trata-se da criação de um wireframe de média, uma homepage, fidelidade sobre algum assunto. Eu escolhi fazer sobre um site de informações sobre filmes.
+<p>Esse projeto trata-se da criação de um wireframe de média fidelidade, uma homepage, sobre algum assunto. Eu escolhi fazer sobre um site de informações sobre filmes.
 Utilizei o Figma, que já vinha utilizando há algum tempo, ainda não tenho completo domínio, mas estou familiarizado. Utilizei diversos elementos de UX design que aprendi até aqui, como 
 espaçamentos, Heurísticas de Nielsen e a Lei de Hicks, por exemplo.
 
