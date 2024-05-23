@@ -13,3 +13,12 @@ Veja como ficou o projeto (é preciso estar logado no Figma para poder visualiza
 Link do meu Wireframe no Figma</a>
 
 </p>
+<h2>2# Projeto | Design System</h2>
+<p> Dando continuidade ao curso, estou postando meu segundo projeto. Agora, um design System. Como eu nunca havia feito um design system antes, fiz da forma mais intuitiva possível.
+</p>
+<p>Usando o que aprendi até aqui, desenvolvi os detalhes de todo o projeto apresentado no primeiro link( wireframe de média fidelidade)esperando ter fornecido o máximo de detalhes sobre cada componente da homepage. </p>
+<p> Com o tempo, e praticando ainda mais, espero tornar este trabalho o mais refinado possível.
+Veja neste link:
+
+  <a href="https://www.figma.com/design/tph4tjJeYgRHFaZFblHE8E/ux-dio-project?node-id=31-3&t=QU0DyXU4moPGQ1mm-0">Link do projeto Design System no Figma.</a>
+</p>
