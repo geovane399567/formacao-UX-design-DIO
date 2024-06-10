@@ -22,3 +22,17 @@ Veja neste link:
 
   <a href="https://www.figma.com/design/tph4tjJeYgRHFaZFblHE8E/ux-dio-project?node-id=31-3&t=QU0DyXU4moPGQ1mm-0">Link do projeto Design System no Figma.</a>
 </p>
+
+
+<h2>3# Projeto | Protótipo Navegável | UX / UI Concept</h2>
+
+<p>Neste terceiro projeto da Formação UX/ UI Design que estou fazendo na Digital Innovation One (DIO), a coisa foi um pouco mais longe. Desta vez, a proposta era criar um protótipo navegável, não necessáriamente completo mas, que fossem postas em prática o que foi ensinado ao longo do curso. </p>
+
+<p>Embora não fosse obrigatório, a premissa era fazer o design de uma APP para mobile, o que foi bem interessante. Iniciei com um wireframe de média fidelidade. Na hora de passar para a alta fidelidade, fiz algumas pequenas alterações, como a adição de uma caixa de busca no topo da página inicial. Então complementei com a prototipagem, adicionando uma pequena navegação,
+e um sistema de rolagem para alguns slides, além de detalhes para links de menu, por exemplo.</p>
+
+Veja nestes links abaixo:
+
+< href="https://www.figma.com/design/6Z1tvu7kWm1EuJK2qQpNvG/Prot%C3%B3tipo-projeto-DIO?node-id=1-3&t=cHIddQ6OcgjJQMZU-0"> Link para o Design System</a>
+
+<a href="https://www.figma.com/proto/6Z1tvu7kWm1EuJK2qQpNvG/Prot%C3%B3tipo-projeto-DIO?node-id=11-464&t=cHIddQ6OcgjJQMZU-0&scaling=scale-down&page-id=1%3A3&starting-point-node-id=11%3A464">Link para a visualização do protótipo em funcionamento</a> 
