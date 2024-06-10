@@ -20,7 +20,7 @@ Link do meu Wireframe no Figma</a>
 <p> Com o tempo, e praticando ainda mais, espero tornar este trabalho o mais refinado possível.
 Veja neste link:
 
-  <a href="https://www.figma.com/design/tph4tjJeYgRHFaZFblHE8E/ux-dio-project?node-id=31-3&t=QU0DyXU4moPGQ1mm-0">Link do projeto Design System no Figma.</a>
+  <a href="https://www.figma.com/design/tph4tjJeYgRHFaZFblHE8E/ux-dio-project?node-id=31-3&t=QU0DyXU4moPGQ1mm-0" target="_blank">Link do projeto Design System no Figma.</a>
 </p>
 
 
@@ -33,6 +33,6 @@ e um sistema de rolagem para alguns slides, além de detalhes para links de menu
 
 Veja nestes links abaixo:
 
-< href="https://www.figma.com/design/6Z1tvu7kWm1EuJK2qQpNvG/Prot%C3%B3tipo-projeto-DIO?node-id=1-3&t=cHIddQ6OcgjJQMZU-0"> Link para o Design System</a>
+<a href="https://www.figma.com/design/6Z1tvu7kWm1EuJK2qQpNvG/Prot%C3%B3tipo-projeto-DIO?node-id=1-3&t=cHIddQ6OcgjJQMZU-0" target="_blank"> Link para o Design System</a>
 
-<a href="https://www.figma.com/proto/6Z1tvu7kWm1EuJK2qQpNvG/Prot%C3%B3tipo-projeto-DIO?node-id=11-464&t=cHIddQ6OcgjJQMZU-0&scaling=scale-down&page-id=1%3A3&starting-point-node-id=11%3A464">Link para a visualização do protótipo em funcionamento</a> 
+<a href="https://www.figma.com/proto/6Z1tvu7kWm1EuJK2qQpNvG/Prot%C3%B3tipo-projeto-DIO?node-id=11-464&t=cHIddQ6OcgjJQMZU-0&scaling=scale-down&page-id=1%3A3&starting-point-node-id=11%3A464" target="_blank">Link para a visualização do protótipo em funcionamento</a> 
