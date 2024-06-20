@@ -36,3 +36,16 @@ Veja nestes links abaixo:
 <a href="https://www.figma.com/design/6Z1tvu7kWm1EuJK2qQpNvG/Prot%C3%B3tipo-projeto-DIO?node-id=1-3&t=cHIddQ6OcgjJQMZU-0" target="_blank"> Link para o Design System</a>
 
 <a href="https://www.figma.com/proto/6Z1tvu7kWm1EuJK2qQpNvG/Prot%C3%B3tipo-projeto-DIO?node-id=11-464&t=cHIddQ6OcgjJQMZU-0&scaling=scale-down&page-id=1%3A3&starting-point-node-id=11%3A464" target="_blank">Link para a visualização do protótipo em funcionamento</a> 
+
+<h2>4# Projeto Final | UX / UI Concept | Protótipo profissional com todas as etapas</h2>
+
+<p>Para finalizar a formação UI/ UX Design na DIO, um protótipo profissional completo, desde o briefing até o Design final.</p>
+<ul>
+  <li>Lista de tarefas</li>
+  <li>Criar o briefing do projeto</li>
+  <li>Desenvolver o Wireframe e o Design System</li>
+  <li>Criar o Mockup Navegável</li>
+  <li>Finalizar o protótipo por completo no Figma</li>
+
+
+</ul>
