@@ -48,14 +48,25 @@ Veja nestes links abaixo:
   <li>Finalizar o protótipo por completo no Figma</li>
 </ul>
 
-<p>Veja nos links abaixo:</p>
-Link para o Briefing:
+<p>Veja nos links abaixo:
+  <br><br>
+Link para o Briefing:<br>
 <a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=0-1&t=G1j3OanJTIgWKA4P-0" target="_blank">Briefing</a>
-Link para o Wireframe:
+<br>
+<br>  
+Link para o Wireframe:<br>
 <a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=10-4&t=G1j3OanJTIgWKA4P-0" target="_blank">Wireframe</a>
-Link para o Design System:
+<br>
+<br>
+Link para o Design System:<br>
 <a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-67&t=G1j3OanJTIgWKA4P-0" target="_blank">Design System</a>
-Link para o protótipo:
+<br>
+  <br>
+Link para o protótipo:<br>
 <a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-94&t=G1j3OanJTIgWKA4P-0" target="_blank">Protótipo</a>
-Link para o Mockup Navegável:
+<br>
+  <br>
+  Link para o Mockup Navegável:<br>
 <a href="https://www.figma.com/proto/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-94&t=G1j3OanJTIgWKA4P-0&scaling=min-zoom&content-scaling=fixed&page-id=14%3A94&starting-point-node-id=78%3A522" target="_blank">Mockup Online</a>
+  <br>
+</p>
