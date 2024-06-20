@@ -51,22 +51,22 @@ Veja nestes links abaixo:
 <p>Veja nos links abaixo:
   <br><br>
 Link para o Briefing:<br>
-<a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=0-1&t=G1j3OanJTIgWKA4P-0" target="_blank">Briefing</a>
+<a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=0-1&t=G1j3OanJTIgWKA4P-0">Briefing</a>
 <br>
 <br>  
 Link para o Wireframe:<br>
-<a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=10-4&t=G1j3OanJTIgWKA4P-0" target="_blank">Wireframe</a>
+<a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=10-4&t=G1j3OanJTIgWKA4P-0">Wireframe</a>
 <br>
 <br>
 Link para o Design System:<br>
-<a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-67&t=G1j3OanJTIgWKA4P-0" target="_blank">Design System</a>
+<a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-67&t=G1j3OanJTIgWKA4P-0">Design System</a>
 <br>
   <br>
 Link para o protótipo:<br>
-<a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-94&t=G1j3OanJTIgWKA4P-0" target="_blank">Protótipo</a>
+<a href="https://www.figma.com/design/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-94&t=G1j3OanJTIgWKA4P-0">Protótipo</a>
 <br>
   <br>
   Link para o Mockup Navegável:<br>
-<a href="https://www.figma.com/proto/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-94&t=G1j3OanJTIgWKA4P-0&scaling=min-zoom&content-scaling=fixed&page-id=14%3A94&starting-point-node-id=78%3A522" target="_blank">Mockup Online</a>
+<a href="https://www.figma.com/proto/IUwiAoKdb0HBEIpmDiRoL6/UX%2FUI-DIO---Projeto-final?node-id=14-94&t=G1j3OanJTIgWKA4P-0&scaling=min-zoom&content-scaling=fixed&page-id=14%3A94&starting-point-node-id=78%3A522">Mockup Online</a>
   <br>
 </p>
